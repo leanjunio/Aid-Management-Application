@@ -74,7 +74,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
   </ItemDefinitionGroup>
@@ -115,6 +115,21 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Allocator.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Date.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ErrorState.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ms5_tester.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\MyProduct.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Perishable.cpp" />
+    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Product.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Date.h" />
+    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ErrorState.h" />
+    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\iProduct.h" />
+    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\MyProduct.h" />
+    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Perishable.h" />
+    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Product.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
