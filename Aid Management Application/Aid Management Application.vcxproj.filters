@@ -15,45 +15,45 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Allocator.cpp">
+    <ClCompile Include="Allocator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Date.cpp">
+    <ClCompile Include="Date.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ErrorState.cpp">
+    <ClCompile Include="ErrorState.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ms5_tester.cpp">
+    <ClCompile Include="ms5_tester.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\MyProduct.cpp">
+    <ClCompile Include="MyProduct.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Perishable.cpp">
+    <ClCompile Include="Perishable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Product.cpp">
+    <ClCompile Include="Product.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Date.h">
+    <ClInclude Include="Date.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ErrorState.h">
+    <ClInclude Include="ErrorState.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\iProduct.h">
+    <ClInclude Include="iProduct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\MyProduct.h">
+    <ClInclude Include="MyProduct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Perishable.h">
+    <ClInclude Include="Perishable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Product.h">
+    <ClInclude Include="Product.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

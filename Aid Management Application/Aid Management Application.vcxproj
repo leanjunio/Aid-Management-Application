@@ -18,6 +18,23 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Allocator.cpp" />
+    <ClCompile Include="Date.cpp" />
+    <ClCompile Include="ErrorState.cpp" />
+    <ClCompile Include="ms5_tester.cpp" />
+    <ClCompile Include="MyProduct.cpp" />
+    <ClCompile Include="Perishable.cpp" />
+    <ClCompile Include="Product.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Date.h" />
+    <ClInclude Include="ErrorState.h" />
+    <ClInclude Include="iProduct.h" />
+    <ClInclude Include="MyProduct.h" />
+    <ClInclude Include="Perishable.h" />
+    <ClInclude Include="Product.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{730EAC8C-4203-42AA-ADB3-63E462443B15}</ProjectGuid>
@@ -114,23 +131,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Allocator.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Date.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ErrorState.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ms5_tester.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\MyProduct.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Perishable.cpp" />
-    <ClCompile Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Product.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Date.h" />
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\ErrorState.h" />
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\iProduct.h" />
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\MyProduct.h" />
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Perishable.h" />
-    <ClInclude Include="..\..\..\..\Documents\Seneca\OOP244\Labs\Milestones\MS5\Product.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
