@@ -1,22 +1,3 @@
-// Final Project - Milestone 5
-// ms5_tester.cpp
-// Version 3.3
-// Date	2018/03/11
-// Authors:	Chris Szalwinski, Fardad Soleimanloo
-//
-// For your final test before submission:
-//      DO NOT MODIFY THIS FILE IN ANY WAY
-//
-//
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-// Chris              2017/12/16           name changes for Fall
-// Chris              2018/01/25           Product name changes
-// Chris              2018/02/07           I/O Alignments
-// Chris              2018-03-03           Message -> State
-// Chris              2018-03-11           align with specs
-/////////////////////////////////////////////////////////////////
 #include "iProduct.h"
 #include "Product.h"
 #include "Perishable.h"
